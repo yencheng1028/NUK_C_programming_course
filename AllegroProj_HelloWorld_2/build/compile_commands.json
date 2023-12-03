@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/AllegroProj_HelloWorld/build",
+  "command": "C:\\llvm-mingw-20231114-msvcrt-x86_64\\bin\\clang.exe  @CMakeFiles/YourProgram.dir/includes_C.rsp -g -o CMakeFiles\\YourProgram.dir\\src\\ex01_hello_allegro.c.obj -c C:\\AllegroProj_HelloWorld\\src\\ex01_hello_allegro.c",
+  "file": "C:/AllegroProj_HelloWorld/src/ex01_hello_allegro.c",
+  "output": "CMakeFiles/YourProgram.dir/src/ex01_hello_allegro.c.obj"
+},
+{
+  "directory": "C:/AllegroProj_HelloWorld/build",
+  "command": "C:\\llvm-mingw-20231114-msvcrt-x86_64\\bin\\clang.exe  @CMakeFiles/YourProgram.dir/includes_C.rsp -g -o CMakeFiles\\YourProgram.dir\\src\\myfunction.c.obj -c C:\\AllegroProj_HelloWorld\\src\\myfunction.c",
+  "file": "C:/AllegroProj_HelloWorld/src/myfunction.c",
+  "output": "CMakeFiles/YourProgram.dir/src/myfunction.c.obj"
+}
+]
